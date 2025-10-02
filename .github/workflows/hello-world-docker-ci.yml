@@ -1,4 +1,4 @@
-name: CI Build for Docker Action
+name: Hello World Docker Action
 on:
   push:
     branches: [ main ]
