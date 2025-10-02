@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals update
+# GitHub Actions Fundamentals update again
 
 Repo for the `GitHub Actions Fundamentals` training.
 
